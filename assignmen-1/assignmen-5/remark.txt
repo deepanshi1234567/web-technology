@@ -1,0 +1,31 @@
+-php
+-my sql(relational database)
+-ui
+
+
+
+
+DATETIME:date('Y-m-d H:i:s')
+
+
+
+
+- control panel(admin panel)
+  -company employee
+     -name,email,password
+     -by default one entery in DB
+
+    -category
+    -name,detail,image
+
+    -book
+    -category (category table),book name ,detail,image ,pdf, gallery,youtube video link
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+*{
+    text-align:center;
+
+}
+#one{
+    color: rgb(83, 14, 202);
+}
+p1{
+    text-align: right;
+}
+.img1{
+    float: left;
+    width: 30%;
+}
+.img2{
+    float: right;
+    width: 15%;
+}
+.img3{
+    float: left;
+    width: 30%;
+}
+.img4{
+    float: right;
+    width: 30%;
+}
+.img5{
+    width: 10%;
+}
+.img6{
+    width: 10%;
+}
+.img7{
+    width: 10%;
+}
+img8{
+    width: 10%;
+}
+.container{
+    display: flex;
+}
